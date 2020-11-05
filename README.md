@@ -52,17 +52,17 @@ Based on
 
    - Alignmnet (50000)
 
-   ![image-20201105183045367](../../AppData/Roaming/Typora/typora-user-images/image-20201105183045367.png)
+   ![50000_kss](https://user-images.githubusercontent.com/67999107/98225804-8b732000-1f98-11eb-8c4b-bc9a52a7443f.png)
 
 2. Tacotron2 + GriffinLim + Multispeaker(KSS + 유인나) 중 유인나 데이터 
 
    - Alignment(90000)
 
-   ![image-20201105183118342](../../AppData/Roaming/Typora/typora-user-images/image-20201105183118342.png)
+   ![90000_유인나](https://user-images.githubusercontent.com/67999107/98225863-9a59d280-1f98-11eb-8dd1-e2955402e825.png)
 
 3. Tacotron2 + MelGan + Singlespeaker(KSS)
 
    - Alignment(90000)
 
-     ![image-20201105183150241](../../AppData/Roaming/Typora/typora-user-images/image-20201105183150241.png)
+  ![melgan_90000](https://user-images.githubusercontent.com/67999107/98225892-a2b20d80-1f98-11eb-850b-0ce0d192696f.png)
 
