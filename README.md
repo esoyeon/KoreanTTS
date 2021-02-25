@@ -2,12 +2,14 @@
 
 Tacotron2 모델과 Vocoder모델(Griffinlim, Wavenet, WaveGan)을 결합하여 한국어  TTS를 구현하는 프로젝트입니다. 
 
+Contributers: 이소연, 신재영, 김도연, 김지예
+
 Based on
 
 - https://github.com/TensorSpeech/TensorFlowTTS
 - https://github.com/hccho2/Tacotron2-Wavenet-Korean-TTS
 
-
+- https://carpedm20.github.io/tacotron/
 
 ## Dataset
 
@@ -23,7 +25,16 @@ Based on
 
    - ETRI 한국어 인식 API
 
-   
+
+
+
+학습에 진행한 오디오 데이터는 저작권 문제로 공유하지 않습니다. 각 데이터 출처에서 확인해주세요. 
+
+- KSS: https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset
+
+- KBS 라디오: http://program.kbs.co.kr/2fm/radio/uvolum/pc/index.html
+
+  
 
 ## Preprocessing
 
@@ -39,12 +50,17 @@ Based on
 
 ## Project 진행
 
+총 4가지의 학습을 진행하였습니다. 
+
 1. Tacotron2 + GriffinLim + Singlespeaker
+
 2. Tacotron2 + GriffinLim + Multispeaker(Deep Voice 2)
+
 3. Tacotron2 + Melgan + Single Speaker
+
 4. Tacotron2 + Melgan + Multispeaker (Transfer learning)
 
-
+   
 
 ## 결과 
 
@@ -65,4 +81,10 @@ Based on
    - Alignment(90000)
 
   ![melgan_90000](https://user-images.githubusercontent.com/67999107/98225892-a2b20d80-1f98-11eb-850b-0ce0d192696f.png)
+
+
+
+- 자세한 학습과정과 결과 오디오는 아래의 발표자료에서 확인하실 수 있습니다. 
+
+  
 
