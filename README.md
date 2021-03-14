@@ -1,6 +1,6 @@
 # KoreanTTS
 
-Tacotron2 모델과 Vocoder모델(Griffinlim, Wavenet, WaveGan)을 결합하여 한국어  TTS를 구현하는 프로젝트입니다. 
+Tacotron2 모델과 Vocoder모델(Griffinlim, Wavenet, MelGan)을 결합하여 한국어  TTS를 구현하는 프로젝트입니다. 
 
 ![name](https://img.shields.io/badge/-이소연-black) ![https://img.shields.io/badge/-%EC%9D%B4%EC%86%8C%EC%97%B0-black](https://img.shields.io/badge/-김도연-black) ![name](https://img.shields.io/badge/-신재영-black) ![name](https://img.shields.io/badge/-김지예-black)
 
