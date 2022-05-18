@@ -83,9 +83,5 @@ Based on
   ![melgan_90000](https://user-images.githubusercontent.com/67999107/98225892-a2b20d80-1f98-11eb-850b-0ce0d192696f.png)
 
 
-
-- 자세한 학습과정과 결과 오디오는 발표자료에서 확인하실 수 있습니다. 
-   Project Paper.pptx
-
   
 
